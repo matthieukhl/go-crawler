@@ -25,7 +25,7 @@ git clone https://github.com/matthieukhl/go-crawler.git
 cd go-crawler
 
 # Build the binary
-go build -o crawler
+go build -o doccrawler
 
 # Optional: Install globally
 go install
